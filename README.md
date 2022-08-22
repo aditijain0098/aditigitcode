@@ -1,2 +1,2 @@
 # aditigitcode
-code related to python and github
+code related to python and github and virtual environment
